@@ -20,13 +20,13 @@ section{
 }
 .hire-btn{
     text-decoration: none;
-    background-image: linear-gradient(orange, red);
+    background-image: linear-gradient(orange, rgb(204, 74, 23));
     color: white;
     font-weight: 600;
     padding: 10px 40px;
     border-radius: 5px;
 }
-.top-banner{
+.top-part{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
