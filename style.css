@@ -30,3 +30,6 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+h3{
+    font-size: 40px;
+}
