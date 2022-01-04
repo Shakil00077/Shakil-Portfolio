@@ -21,7 +21,7 @@ h1{
 }
 .hire-btn{
     text-decoration: none;
-    background-image: linear-gradient(orange, rgb(204, 74, 23));
+    background-image: linear-gradient(lightsalmon, tomato);
     color: white;
     font-weight: 600;
     padding: 10px 40px;
@@ -59,6 +59,6 @@ h3{
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
-footer{
+footer p{
     text-align: center;
 }
